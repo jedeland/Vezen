@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2689ea876f39e709",
+            "id": "6e0ed7dda08e8494",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,15 +20,18 @@
             }
           },
           {
-            "id": "6e0ed7dda08e8494",
+            "id": "f91581ede75de7ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Player Information/Shared Variables/Old Friend.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"common friend\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Player Information/Player Primer/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Player Information/Player Primer/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,19 +136,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Player Information/Player Primer/Introduction.md"
+              }
+            }
+          },
+          {
+            "id": "be6788d3c92622e7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "d784b576635e30be",
+  "active": "6e0ed7dda08e8494",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Player Information/Player Primer/Introduction.md"
+    "Player Information/Shared Variables/Old Friend.md",
+    "Player Information/Player Primer/Introduction.md",
+    "2023-01-28.md",
+    "Untitled.md"
   ]
 }
