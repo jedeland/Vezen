@@ -95,11 +95,9 @@
             "id": "7aa12baf09e428d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Player Information/Vezen Prime/World Map.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Nardeia_2023-01-30-17-49.png"
               }
             }
           },
@@ -182,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Information/Vezen Prime/World Map.md",
+                "file": "Resources/Nardeia_2023-01-30-17-49.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Information/Vezen Prime/World Map.md",
+                "file": "Resources/Nardeia_2023-01-30-17-49.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Information/Vezen Prime/World Map.md"
+                "file": "Resources/Nardeia_2023-01-30-17-49.png"
               }
             }
           },
@@ -253,17 +251,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7aa12baf09e428d0",
+  "active": "d784b576635e30be",
   "lastOpenFiles": [
-    "Resources.md",
     "Player Information/Vezen Prime/World Map.md",
-    "Resources/Nardeia 2023-01-30-17-49.png",
+    "Resources/Nardeia.md",
+    "Resources/Nardeia_2023-01-30-17-49.png",
+    "Resources.md",
     "().md",
     "2023-01-28.md",
     "Player Information/Vezen Prime/Cities/Scrappers (North and South).md",
     "Player Information/Vezen Prime/Cities/48 (Omitrog).md",
     "Player Information/Vezen Prime/Cities/Cy_.md",
-    "Player Information/Vezen Prime/Cities/Last Port (Karan).md",
-    "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus).md"
+    "Player Information/Vezen Prime/Cities/Last Port (Karan).md"
   ]
 }
