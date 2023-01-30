@@ -95,9 +95,11 @@
             "id": "7aa12baf09e428d0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Nardeia_2023-01-30-17-49.png"
+                "file": "Player Information/Vezen Prime/World Map.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -180,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Nardeia_2023-01-30-17-49.png",
+                "file": "Player Information/Vezen Prime/World Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Nardeia_2023-01-30-17-49.png",
+                "file": "Player Information/Vezen Prime/World Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Nardeia_2023-01-30-17-49.png"
+                "file": "Player Information/Vezen Prime/World Map.md"
               }
             }
           },
@@ -251,11 +253,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d784b576635e30be",
+  "active": "7aa12baf09e428d0",
   "lastOpenFiles": [
+    "Resources/Nardeia_2023-01-30-17-49.png",
     "Player Information/Vezen Prime/World Map.md",
     "Resources/Nardeia.md",
-    "Resources/Nardeia_2023-01-30-17-49.png",
     "Resources.md",
     "().md",
     "2023-01-28.md",
