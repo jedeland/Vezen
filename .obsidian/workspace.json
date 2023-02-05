@@ -35,60 +35,40 @@
             "id": "3ee6658580148d2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Information/Vezen Prime/Cities/Last Port (Karan).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "1e20dc4c2dbc9d58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Information/Vezen Prime/Cities/Cy_.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "2f9193a17481cb60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "da99bfbe0f29ecc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Information/Vezen Prime/Cities/Cy_.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "19a99f082ae56fc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Information/Vezen Prime/Cities/48 (Omitrog).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -97,7 +77,43 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Player Information/Vezen Prime/Cities/Cy_/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1397b56f79f2201e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Player Information/Vezen Prime/World Map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "470a89c8b78e20cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Npcs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebd6b12798363244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -182,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Information/Vezen Prime/World Map.md",
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Information/Vezen Prime/World Map.md",
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Information/Vezen Prime/World Map.md"
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md"
               }
             }
           },
@@ -253,17 +269,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7aa12baf09e428d0",
+  "active": "ebd6b12798363244",
   "lastOpenFiles": [
-    "Resources/Nardeia_2023-01-30-17-49.png",
+    "Player Information/Vezen Prime/Cities/Cy_/Overview.md",
+    "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
+    "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Npcs.md",
+    "Player Information/Vezen Prime/Cities/Cy_/Npcs.md",
     "Player Information/Vezen Prime/World Map.md",
-    "Resources/Nardeia.md",
-    "Resources.md",
-    "().md",
-    "2023-01-28.md",
-    "Player Information/Vezen Prime/Cities/Scrappers (North and South).md",
     "Player Information/Vezen Prime/Cities/48 (Omitrog).md",
     "Player Information/Vezen Prime/Cities/Cy_.md",
-    "Player Information/Vezen Prime/Cities/Last Port (Karan).md"
+    "Player Information/Vezen Prime/Cities/Scrappers (North and South).md",
+    "Player Information/Vezen Prime/Cities/To-D (Touchdown).md",
+    "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus).md"
   ]
 }
