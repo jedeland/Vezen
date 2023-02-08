@@ -2,13 +2,15 @@ Cy_ (The underscore is optional)
 
 TLDR: "They thought a megacity, built around a highly -[REDACTED]- object was a good idea, turned out its great for the finance sector!"
 
-Culture: 
+- OverTheTop Cyberpunk grunge city, the tech is a bit more Net and Corporation focused, but the credits flow more free-ly in the city of vice
+
+## Culture: 
 
 Cy_ is renowned in Vezen for its status as "the place money goes to die", high rises are contrasted with slums, The banking sector is opposite massive steelworks that house all kinds of punks and denizens, the city is truly a playground for the megacorps. 
 
 The many rivers and roads that flow through the city make it a perfect end node for trade, the city is somehow stylized more like a dystopian novel than any actual city in the pact worlds. Many different cliques and groups live, work and die here, for outsiders the money flows freely where morals do not, and the appeal of becoming a modern legend through "NetCasts" or in one of the many "DataStream(z)" chat boards
 
-Notable jobs: 
+## Notable jobs: 
 
 Nascent Ai's, infamous hackers, MegaCorps, cults - you name it, everyone wants to expand their influence and money exists purely to carve out a corner of Cy_
 
