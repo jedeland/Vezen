@@ -18,3 +18,6 @@ Nascent Ai's, infamous hackers, MegaCorps, cults - you name it, everyone wants t
 - Due to its situation as a MegaCorp hub, experimental equiptment can often be found here and sold to the highest bidder, or tested for the right price if you have a good reputation with some Corpo's
 - The dire situation has lead to many cults popping up, and some gods have taken notice ...
 - DataStream and Net nodes here contain information about the universe "pre gap", with some rumouring that some of the early AIs have stored away "during gap" information in the deepest, darkest layers of the Net
+
+
+![git version](../../../../Resources/cyberpunk-marek-mazur-digital-city-wallpaper-preview.jpg)
