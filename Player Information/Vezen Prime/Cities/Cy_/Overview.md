@@ -10,6 +10,8 @@ Cy_ is renowned in Vezen for its status as "the place money goes to die", high r
 
 The many rivers and roads that flow through the city make it a perfect end node for trade, the city is somehow stylized more like a dystopian novel than any actual city in the pact worlds. Many different cliques and groups live, work and die here, for outsiders the money flows freely where morals do not, and the appeal of becoming a modern legend through "NetCasts" or in one of the many "DataStream(z)" chat boards
 
+![git version](../../../../Resources/305a6470533ab3b517fedcbb2121eee5.jpg)
+
 ## Notable jobs: 
 
 Nascent Ai's, infamous hackers, MegaCorps, cults - you name it, everyone wants to expand their influence and money exists purely to carve out a corner of Cy_

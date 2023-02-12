@@ -10,6 +10,7 @@ To-D is the "Typical" spacer city, one could be forgiven for thinking it was, in
 
 Roads, rail and spaceports are hidden away, only their end nodes and access points visible to the public. The people here are (relatively) happy and productive, but only if they are part of the wider cartel system that keeps To-D running. "PactPunk" is the everyday style here, and the structure of the city runs in a near feudal setting, with many guilds, "nobles" (read: cartel families) and religious functionaries found here
 
+![git version](../../../../Resources/994011.jpg)
 ## Notable Jobs:
 
 The massive logistical facilities attached to the space elevator all hang in a delicate balance, with many factions vying for a bigger cut of the pie, To-D is a more political and factional city than the others, though the old disused southwest side holds some secrets
