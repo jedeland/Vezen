@@ -11,11 +11,9 @@
             "id": "d4d9091e539d7cf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/48 (Omitrog)/Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/ETzYx.jpg"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/48 (Omitrog)/Overview.md",
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/48 (Omitrog)/Overview.md",
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/48 (Omitrog)/Overview.md"
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md"
               }
             }
           },
@@ -174,17 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4d9091e539d7cf1",
+  "active": "d39e0373874dd035",
   "lastOpenFiles": [
-    "Player Information/Vezen Prime/Cities/Last Port (Kah-ren)/Overview.md",
-    "Resources/903684b19ae2e891942adea2b1476612.jpg",
-    "Player Information/Vezen Prime/Cities/48 (Omitrog)/Overview.md",
     "Player Information/Vezen Prime/Cities/Cy_/Overview.md",
     "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
+    "Resources/ETzYx.jpg",
+    "Player Information/Vezen Prime/Cities/48 (Omitrog)/Overview.md",
+    "Player Information/Vezen Prime/Cities/Last Port (Kah-ren)/Overview.md",
+    "Resources/903684b19ae2e891942adea2b1476612.jpg",
     "Resources/cyberpunk-marek-mazur-digital-city-wallpaper-preview.jpg",
     "Resources/Nardeia_2023-01-30-17-49.png",
     "Player Information/Vezen Prime/Cities/Cy_/Npcs.md",
-    "Player Information/Vezen Prime/World Map.md",
-    "Player Information/Shared Variables/Old Friend.md"
+    "Player Information/Vezen Prime/World Map.md"
   ]
 }
