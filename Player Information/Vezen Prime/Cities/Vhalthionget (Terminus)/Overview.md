@@ -12,6 +12,10 @@ Terminus is an enclosed city, its built into the remains of an archeotech ship w
 
 ## Notable Jobs:
 
-Terminus is always looking for way
+Terminus is always looking for way to keep the planets transport flowing, whatever it takes. There is also often talk of heroes journeying into the forbidden sections.
+
+- The terminus ship core holds many archeotech items in reserve for those that can subdue problems affecting its efficiency matrix, ensuring the free flow of goods will surely gain its attention.
+- CyCore and PactPunk items are rare here, journeying outside is often openly encouraged but quietly hindered, retrieving specific items can net some credibility and items
+- Travelers, Modularists and Guardians are always looking for hired guns in Terminus, not everyone coming here for speedy travel is doing so to get somewhere but rather to make a getaway
 
 ![git version](../../../../Resources/a1a40ffb277bb4093c1d2681d701c9e6.jpg)

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30dca80d325904be",
+        "id": "0951109b894adb48",
         "type": "tabs",
         "children": [
           {
-            "id": "c0873d0dc4f568ae",
+            "id": "8ff6e65cd095d865",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md",
+                "file": "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md",
+                "file": "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md",
+                "file": "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md"
+                "file": "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md"
               }
             }
           },
@@ -156,17 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0873d0dc4f568ae",
+  "active": "8ff6e65cd095d865",
   "lastOpenFiles": [
-    "Resources/80f55da1cbc064e9c725fa1d0a1d2149.jpg",
     "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md",
-    "Resources/trash_planet_concept_01_by_nkabuto-d41goz9.jpg",
+    "Player Information/Shared Variables/The Debtor.md",
+    "Player Information/Shared Variables/Old Friend.md",
+    "Player Information/Player Primer/Player Starting Condition.md",
+    "Player Information/Player Primer/Introduction.md",
+    "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md",
+    "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
     "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus)/Overview.md",
     "Player Information/Vezen Prime/Cities/Cy_/Overview.md",
-    "Player Information/Vezen Prime/Cities/Last Port (Kah-ren)/Overview.md",
-    "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
-    "Player Information/Shared Variables/The Debtor.md",
-    "Resources/SparthJ.jpg",
-    "Resources/Nardeia_2023-01-30-17-49.png"
+    "Resources/ETzYx.jpg"
   ]
 }
