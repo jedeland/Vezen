@@ -1,4 +1,4 @@
-To-D (Toad | Too doo | First) - Originally "Touchdown"
+To-D (Spire | Too doo | First) - Originally "Touchdown"
 
 TLDR: "Well yeh I know the space elevator is there, and I know the university is there, and I know the streets are (relatively) safe-ish, but the club scene here is so passé"
 

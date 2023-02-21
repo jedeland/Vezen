@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8480163fdd282c77",
+        "id": "30dca80d325904be",
         "type": "tabs",
         "children": [
           {
-            "id": "d39e0373874dd035",
+            "id": "c0873d0dc4f568ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/Last Port (Kah-ren)/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3c0acd13ca76916",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus)/Overview.md",
+                "file": "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus)/Overview.md",
+                "file": "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus)/Overview.md",
+                "file": "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus)/Overview.md"
+                "file": "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md"
               }
             }
           },
@@ -155,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,17 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3c0acd13ca76916",
+  "active": "c0873d0dc4f568ae",
   "lastOpenFiles": [
-    "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
-    "Player Information/Vezen Prime/Cities/Last Port (Kah-ren)/Overview.md",
+    "Resources/80f55da1cbc064e9c725fa1d0a1d2149.jpg",
+    "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md",
+    "Resources/trash_planet_concept_01_by_nkabuto-d41goz9.jpg",
     "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus)/Overview.md",
-    "Player Information/Vezen Prime/Cities/Last Port (Kah-ren)/Npcs.md",
-    "Player Information/Vezen Prime/Cities/48 (Omitrog)/Overview.md",
-    "Player Information/Vezen Prime/Cities/48 (Omitrog)/Npcs.md",
     "Player Information/Vezen Prime/Cities/Cy_/Overview.md",
-    "Player Information/Vezen Prime/Cities/Cy_/Npcs.md",
-    "Resources/305a6470533ab3b517fedcbb2121eee5.jpg",
-    "Resources/ETzYx.jpg"
+    "Player Information/Vezen Prime/Cities/Last Port (Kah-ren)/Overview.md",
+    "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
+    "Player Information/Shared Variables/The Debtor.md",
+    "Resources/SparthJ.jpg",
+    "Resources/Nardeia_2023-01-30-17-49.png"
   ]
 }
