@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md",
+                "file": "Player Information/Player Primer/Player Starting Condition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md",
+                "file": "Player Information/Player Primer/Player Starting Condition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md",
+                "file": "Player Information/Player Primer/Player Starting Condition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md"
+                "file": "Player Information/Player Primer/Player Starting Condition.md"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "8ff6e65cd095d865",
   "lastOpenFiles": [
+    "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus)/Overview.md",
+    "Player Information/Vezen Prime/Cities/48 (Omitrog)/Overview.md",
+    "Player Information/Player Primer/Player Starting Condition.md",
+    "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
+    "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md",
     "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md",
     "Player Information/Shared Variables/The Debtor.md",
     "Player Information/Shared Variables/Old Friend.md",
-    "Player Information/Player Primer/Player Starting Condition.md",
     "Player Information/Player Primer/Introduction.md",
-    "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md",
-    "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
-    "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus)/Overview.md",
-    "Player Information/Vezen Prime/Cities/Cy_/Overview.md",
-    "Resources/ETzYx.jpg"
+    "Player Information/Vezen Prime/Cities/Cy_/Overview.md"
   ]
 }
