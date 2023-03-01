@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f071781a1635d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Information/Locations/Vezen Prime/To-D/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Information/Player Primer/Player Starting Condition.md",
+                "file": "DM Information/Locations/Vezen Prime/To-D/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Information/Player Primer/Player Starting Condition.md",
+                "file": "DM Information/Locations/Vezen Prime/To-D/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Information/Player Primer/Player Starting Condition.md"
+                "file": "DM Information/Locations/Vezen Prime/To-D/Overview.md"
               }
             }
           },
@@ -156,11 +169,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ff6e65cd095d865",
+  "active": "9f071781a1635d16",
   "lastOpenFiles": [
+    "Player Information/Player Primer/Player Starting Condition.md",
+    "DM Information/Locations/Vezen Prime/To-D/Overview.md",
+    "DM Information/Locations/Vezen Prime/To-D",
+    "DM Information/Locations/Vezen Prime",
+    "DM Information/Locations",
+    "DM Information/Quests",
     "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus)/Overview.md",
     "Player Information/Vezen Prime/Cities/48 (Omitrog)/Overview.md",
-    "Player Information/Player Primer/Player Starting Condition.md",
     "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
     "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md",
     "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md",
