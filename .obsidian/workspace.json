@@ -25,14 +25,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Information/Locations/Vezen Prime/To-D/Overview.md",
+                "file": "Player Information/Vezen Prime/Cities/48 (Omitrog)/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b8fea029f6a8323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Isten Kft. (Purple).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d26ec90109620b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Ganelon S.A. (Blue).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95642477bf585fe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Akahige GmbH. (Green).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "159fe6bb5036ba3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Akahige GmbH. (Green).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7495af03357090c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -98,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Information/Locations/Vezen Prime/To-D/Overview.md",
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Akahige GmbH. (Green).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Information/Locations/Vezen Prime/To-D/Overview.md",
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Akahige GmbH. (Green).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Information/Locations/Vezen Prime/To-D/Overview.md"
+                "file": "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Akahige GmbH. (Green).md"
               }
             }
           },
@@ -169,16 +227,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f071781a1635d16",
+  "active": "7495af03357090c3",
   "lastOpenFiles": [
-    "Player Information/Player Primer/Player Starting Condition.md",
+    "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Ganelon S.A. (Blue).md",
+    "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Isten Kft. (Purple).md",
+    "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/The Cartel.md",
+    "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Akahige GmbH. (Green).md",
+    "Player Information/Vezen Prime/Cities/48 (Omitrog)/Overview.md",
+    "Player Information/Vezen Prime/World Map.md",
     "DM Information/Locations/Vezen Prime/To-D/Overview.md",
+    "Player Information/Player Primer/Player Starting Condition.md",
     "DM Information/Locations/Vezen Prime/To-D",
     "DM Information/Locations/Vezen Prime",
     "DM Information/Locations",
     "DM Information/Quests",
     "Player Information/Vezen Prime/Cities/Vhalthionget (Terminus)/Overview.md",
-    "Player Information/Vezen Prime/Cities/48 (Omitrog)/Overview.md",
     "Player Information/Vezen Prime/Cities/First (Touchdown - To-D)/Overview.md",
     "Player Information/Vezen Prime/Cities/Last Port (Kah-re)/Overview.md",
     "Player Information/Vezen Prime/Cities/Scrappers (North and South)/Overview.md",
