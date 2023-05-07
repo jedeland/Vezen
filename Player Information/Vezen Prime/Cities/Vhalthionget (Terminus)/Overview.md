@@ -19,3 +19,4 @@ Terminus is always looking for way to keep the planets transport flowing, whatev
 - Travelers, Modularists and Guardians are always looking for hired guns in Terminus, not everyone coming here for speedy travel is doing so to get somewhere but rather to make a getaway
 
 ![git version](../../../../Resources/a1a40ffb277bb4093c1d2681d701c9e6.jpg)
+
